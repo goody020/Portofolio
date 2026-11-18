@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const subject = encodeURIComponent(`Portfolio Contact from ${name}`);
       const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`);
-      window.location.href = `mailto:ogundaregoodnrss3@gmail.com?subject=${subject}&body=${body}`;
+      window.location.href = `mailto:goodybagwork11@gmail.com?subject=${subject}&body=${body}`;
     });
   }
 
